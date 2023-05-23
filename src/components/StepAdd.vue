@@ -170,7 +170,7 @@
   }
 }
 
-@media(max-width: 375px) {
+@media(max-width: 977px) {
   .step {
     padding-bottom: 0;
   }
