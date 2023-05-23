@@ -157,7 +157,7 @@ import { required ,email,helpers,minLength} from '@vuelidate/validators'
     button {
         margin-left: auto;
     }
-    @media(max-width: 375px) {
+    @media(max-width: 977px) {
         .error-text {
             font-size: 10px;
             height: 0;
