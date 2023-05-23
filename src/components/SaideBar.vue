@@ -46,7 +46,7 @@ export default {
 /* colors */
 
 
-@media (max-width: 1440px) {
+
 .siedbar {
   background: no-repeat url(../assets/images/bg-sidebar-desktop.svg) 100% 100%;
   width: 275px;
@@ -105,7 +105,7 @@ export default {
     }
   }
 }
-}
+
 
 @media (max-width: 977px) {
   .siedbar {
